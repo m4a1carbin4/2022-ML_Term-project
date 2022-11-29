@@ -29,6 +29,6 @@ Using Two Dataset for recommendation system
 
 Create a rating table between user and movies. After clustering them, a recommendation system is created by predicting user ratings for each cluster. 
 
-- Code : [https://github.com/m4a1carbin4/2022-ML_Term-project/blob/main/Collaborative Filtering(EM).ipynb](https://github.com/m4a1carbin4/2022-ML_Term-project/blob/main/Collaborative%20Filtering(EM).ipynb)
+- Code : [https://github.com/m4a1carbin4/2022-ML_Term-project/blob/main/Collaborative Filtering(EM).ipynb](https://github.com/m4a1carbin4/2022-ML_Term-project/blob/main/Collaborative_Filtering(EM).ipynb)
 
-[2022-ML_Term-project/Collaborative Filtering(EM).ipynb at main · m4a1carbin4/2022-ML_Term-project](https://github.com/m4a1carbin4/2022-ML_Term-project/blob/main/Collaborative%20Filtering(EM).ipynb)
+[2022-ML_Term-project/Collaborative Filtering(EM).ipynb at main · m4a1carbin4/2022-ML_Term-project](https://github.com/m4a1carbin4/2022-ML_Term-project/blob/main/Collaborative_Filtering(EM).ipynb)
